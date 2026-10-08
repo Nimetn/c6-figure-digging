@@ -27,21 +27,25 @@
 - Вывод топ-3 в консоль и в файл.
 
 ## Структура проекта
+
+```text
+c6-figure-digging/
 ├── src/
-│ └── c6_figure_digging.cpp # исходный код
+│   └── c6_figure_digging.cpp
 ├── tests/
-│ ├── robot.txt # пример входных данных
-│ ├── test1.1.txt
-│ ├── test1.2.txt
-│ ├── test2.txt
-│ ├── test3.txt
-│ ├── test4.txt
-│ ├── test5.txt
-│ └── test6.txt
+│   ├── robot.txt
+│   ├── test1.1.txt
+│   ├── test1.2.txt
+│   ├── test2.txt
+│   ├── test3.txt
+│   ├── test4.txt
+│   ├── test5.txt
+│   └── test6.txt
 ├── docs/
-│ └── Problem C6.docx # условие задачи
+│   └── Problem C6.docx
 ├── .gitignore
 └── README.md
+```
 
 ## Основная идея реализации
 
