@@ -66,3 +66,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Code::Blocks
+bin/
+obj/
+*.cbp
+*.depend
+*.layout
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+*.user
+
+# Результаты работы программы
+Winners.txt
+output.txt
+
+# Windows
+Thumbs.db
+Desktop.ini
